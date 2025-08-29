@@ -23,8 +23,8 @@
   <C C2 1 540 310 -66 -26 0 3 "150 nF" 1 "" 0 "neutral" 0>
   <L L1 1 470 260 -27 -52 0 0 "54 mH" 1 "" 0>
   <C C1 1 410 310 -66 -26 0 3 "150 nF" 1 "" 0 "neutral" 0>
-  <.AC AC1 1 590 730 0 40 0 0 "lin" 1 "1 Hz" 1 "5kHz" 1 "200" 1 "no" 0>
   <NutmegEq NutmegEq1 1 280 740 -26 17 0 0 "ALL" 1 "S21_dB_clipped=20*log10(max(abs(V(out)/V(in)), 1e-6))" 1>
+  <.AC AC1 1 590 730 0 40 0 0 "lin" 1 "1 Hz" 1 "10kHz" 1 "200" 1 "no" 0>
 </Components>
 <Wires>
   <330 370 330 380 "" 0 0 0 "">
@@ -51,7 +51,7 @@
 <Diagrams>
   <Rect 250 647 466 157 3 #c0c0c0 1 00 1 0 500 3000 1 -132.305 50 15.36 1 -1 1 1 315 0 225 1 0 0 "" "" "">
 	<"ngspice/ac.s21_db_clipped" #0000ff 0 3 0 0 0>
-	  <Mkr 2487.94 85 -223 3 0 0>
+	  <Mkr 2463.07 85 -223 3 0 0>
   </Rect>
 </Diagrams>
 <Paintings>
