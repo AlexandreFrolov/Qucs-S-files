@@ -1,6 +1,6 @@
 <Qucs Schematic 25.1.2>
 <Properties>
-  <View=130,126,1009,797,1.65832,0,0>
+  <View=114,123,993,794,1.65832,0,0>
   <Grid=10,10,1>
   <DataSet=ФНЧ-RC.dat>
   <DataDisplay=ФНЧ-RC.dpl>
