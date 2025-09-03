@@ -1,6 +1,6 @@
 <Qucs Schematic 25.1.2>
 <Properties>
-  <View=0,-60,1458,1052,1,0,0>
+  <View=252,99,934,666,2.13846,0,0>
   <Grid=10,10,1>
   <DataSet=Резонансный.dat>
   <DataDisplay=Резонансный.dpl>
@@ -41,7 +41,7 @@
 <Diagrams>
   <Rect 360 579 489 179 3 #c0c0c0 1 01 1 5e+06 5e+06 6e+07 1 0.01 1 1 1 -1 1 1 315 0 225 1 1 0 "" "dB" "">
 	<"ngspice/ac.v(out)" #0000ff 0 3 0 0 0>
-	  <Mkr 2.76633e+07 261 -239 3 0 0>
+	  <Mkr 2.76633e+07 241 -259 3 0 0>
   </Rect>
 </Diagrams>
 <Paintings>
