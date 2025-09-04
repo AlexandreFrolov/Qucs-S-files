@@ -1,6 +1,6 @@
 <Qucs Schematic 25.1.2>
 <Properties>
-  <View=0,0,1458,1112,1,0,0>
+  <View=69,76,1076,1002,1.51875,71,0>
   <Grid=10,10,1>
   <DataSet=Полосовой Авиа.dat>
   <DataDisplay=Полосовой Авиа.dpl>
